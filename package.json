@@ -2,6 +2,7 @@
   "name": "Cooking suggestion",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://arunkumar-ak99.github.io/Cooking-Suggestions",
   "dependencies": {
     "@reduxjs/toolkit": "2.2.7",
     "react": "18.2.0",

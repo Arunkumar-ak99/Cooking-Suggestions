@@ -31,3 +31,12 @@ npm run build
 ```
 
 Recipes are currently provided by local sample data. Recipe photos are loaded from Unsplash.
+
+## Deploy to GitHub Pages
+
+The GitHub Actions workflow deploys the `main` branch automatically:
+
+1. In the repository, open **Settings > Pages** and set the source to **GitHub Actions**.
+2. Push the project to the `main` branch. The workflow installs dependencies, builds the app, and publishes the `build` folder.
+
+The project site is available at [https://arunkumar-ak99.github.io/Cooking-Suggestions/](https://arunkumar-ak99.github.io/Cooking-Suggestions/).

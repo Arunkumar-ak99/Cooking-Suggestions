@@ -21,7 +21,7 @@ export default function App() {
         <Route path="/favourites" element={<Favourites />} />
         <Route path="/shopping" element={<Shopping />} />
       </Routes>
-      <footer className="app-footer">Freshmate <span>·</span> Make every ingredient count.</footer>
+      <footer className="app-footer">Roommate <span>·</span> Make every ingredient count.</footer>
     </main>
   </div>;
 }
